@@ -1,7 +1,7 @@
 import requests
-
+# solo formato de prueba
 def unreleased():
-    response = requests.get('https://codigofacilito.com/api/v2/workshops/unreleased')
+    response = requests.get('')
 
     if response.status_code == 200:
         payload = response.json()
