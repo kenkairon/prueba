@@ -1,4 +1,4 @@
 ### Codigo
-Este paquete nos permite consumir el API de la plataforma
+Es es tan solo un códigos de prueba 
 
 
