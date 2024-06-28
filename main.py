@@ -4,4 +4,4 @@ if __name__ =='__main__':
     workshops = unreleased()
     print(workshops)
 
-# Prueba sencilla de conflicto
+# Conflicto desde main
